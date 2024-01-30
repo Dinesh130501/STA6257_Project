@@ -113,4 +113,26 @@ recognizing some of SVM's drawbacks, including the difficulty of
 selecting the best kernel for a given situation and issues with
 performance and size.
 
+Article 2:
+
+The Development and Application of Support Vector Machine
+
+Jun, Z. (2021). The development and application of support vector
+machine. In *Journal of Physics: Conference Series* (Vol. 1748, No. 5,
+p. 052006). IOP Publishing.
+
+The article gives an introduction to the Support Vector Machine (SVM)
+method, highlighting its benefits, fundamental ideas, and uses in face
+identification, protein prediction, and contemporary machining. It
+explores the theoretical underpinnings of support vector machines (SVM),
+going over ideas like kernel functions and hard and soft margins. The
+application sections show off effective SVM implementations across a
+range of disciplines, demonstrating its effectiveness in face detection,
+protein type prediction, and bearing defect diagnostics. The paper
+highlights the adaptability and generalization power of SVM while also
+pointing out some of its possible drawbacks, especially with regard to
+training efficiency for large-scale datasets. The study's finding
+implies that future work might concentrate on enhancing SVM algorithms
+and increasing the range of real-world uses for them.
+
 ## References
