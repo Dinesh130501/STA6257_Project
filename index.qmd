@@ -36,7 +36,7 @@ This is my work and I want to add more work...
 
 This section is going to cover the literature review...
 
-## Methods
+## Method
 
 The common non-parametric regression model is
 $Y_i = m(X_i) + \varepsilon_i$, where $Y_i$ can be defined as the sum of
@@ -101,5 +101,22 @@ ggplot1 = murders %>% ggplot(mapping = aes(x=population/10^6, y=total))
 ```
 
 ### Conclusion
+
+Article 1:
+
+This study emphasizes that in an era of increased data output, there is
+a growing demand for strong, rapid, and accurate algorithms for data
+analysis. Benefits of Support Vector Machines (SVM) as a potent machine
+learning technique for a range of statistical learning issues, including
+bioinformatics, are highlighted. In particular, SVMs are well-known for
+their use of kernel functions and generalization theory, which allow for
+the creation of non-linear decision surfaces for tasks involving
+regression and classification. The study presents a summary of Support
+Vector Machines (SVM), examines both linear and non-linear
+classification, and highlights the significance of kernel selection. It
+also covers a variety of data mining classification approaches before
+recognizing some of SVM's drawbacks, including the difficulty of
+selecting the best kernel for a given situation and issues with
+performance and size.
 
 ## References
