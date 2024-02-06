@@ -135,6 +135,8 @@ training efficiency for large-scale datasets. The study's finding
 implies that future work might concentrate on enhancing SVM algorithms
 and increasing the range of real-world uses for them.
 
+Article 3:
+
 Overview of Support Vector Machine in Modeling Machining Performances
 
 Deris, A. M., Zain, A. M., & Sallehuddin, R. (2011). Overview of support
@@ -154,5 +156,32 @@ highlights how well SVM handles the intricacy of machining processes and
 how widely it is used to produce high-quality items with economical
 predictions. The study emphasizes SVM's function as a flexible and
 trustworthy modeling approach in the developing field of machining.
+
+Article 4:
+
+Tutorial on Support Vector Machine (SVM)
+
+Jakkula, V. (2006). Tutorial on support vector machine (svm). *School of
+EECS, Washington State University*, *37*(2.5), 3.
+
+The author gives an introduction to Support Vector Machines (SVM) like
+its mathematical foundation and practical uses. SVMs are presented as a
+collection of supervised learning techniques for regression and
+classification. The course explores the mathematical support of support
+vector machines (SVM), giving ideas like structural risk minimization,
+maximum margin classifier, and SVM formulation for linear scenarios. It
+emphasizes how important SVM is for tasks involving pattern recognition
+and how it may be extended to solve regression issues. Important SVM
+topics including statistical learning theory, generalization, and the
+kernel trick are also covered in the session. The author talks about how
+kernels help SVM handle non-linear boundaries by converting input data
+into a high-dimensional feature space. Numerous kernel functions are
+investigated, such as the polynomial, multi-layer perceptron,
+exponential, and Gaussian radial basis functions. The last section
+covers the uses of SVM in regression and classification, highlighting
+how well it works in pattern classification scenarios and how well it
+can handle high-dimensional data. SVM's advantages and disadvantages are
+discussed, with an emphasis on its scalability, training simplicity, and
+the significance of choosing the right kernel function.
 
 ## References
