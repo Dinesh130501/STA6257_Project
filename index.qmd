@@ -135,4 +135,24 @@ training efficiency for large-scale datasets. The study's finding
 implies that future work might concentrate on enhancing SVM algorithms
 and increasing the range of real-world uses for them.
 
+Overview of Support Vector Machine in Modeling Machining Performances
+
+Deris, A. M., Zain, A. M., & Sallehuddin, R. (2011). Overview of support
+vector machine in modeling machining performances. *Procedia
+Engineering*, *24*, 308-312.
+
+The use of Support Vector Machines (SVM) to model machining performances
+is covered in this study, focusing on both traditional and contemporary
+machining procedures. Researchers from Universiti Teknologi Malaysia
+draw attention to the difficulties in simulating and improving machining
+operations as well as the growing use of computational methods like SVM.
+Surface roughness, tool wear, tool breakage, and defect diagnostics are
+just a few of the machining factors that are modeled by the Support
+Vector Machine (SVM), a potent mathematical tool for data
+classification, regression, and function estimation. The review
+highlights how well SVM handles the intricacy of machining processes and
+how widely it is used to produce high-quality items with economical
+predictions. The study emphasizes SVM's function as a flexible and
+trustworthy modeling approach in the developing field of machining.
+
 ## References
